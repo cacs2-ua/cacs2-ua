@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, Me llamo Cristian Andrés Córdoba Silvestre</h1>
-<h3 align="center">Programador full-stack</h3>
+<h1 align="center">Hi 👋, I'M Cristian Andrés Córdoba Silvestre</h1>
+<h3 align="center">Full Stack Programmer</h3>
 
-- 🤝 Estoy buscando **Un proyecto que pueda utilizar como trabao de Fin de Grado**
+- 🤝 I'm looking for **A project that can be used as a Bachelor´s Degree Final Project (Proyecto de Fin de Grado)**
 
-- 👨‍💻 All of my projects are available at [https://criscsfullstack.es/](https://criscsfullstack.es/)
+- 👨‍💻 All of my projects are available a [https://criscsfullstack.es/](https://criscsfullstack.es/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/criscsfullstack/?locale=es_ES](https://www.linkedin.com/in/criscsfullstack/?locale=es_ES)
 
