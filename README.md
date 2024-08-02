@@ -75,4 +75,9 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png" alt="laravel" width="40" height="40"/>
   </a>
+
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/998f1aa7-a9ca-4fa9-879f-1ed56fea4ff3.png" alt="maven" width="40" height="40"/>
+  </a>
+  
 </p>
